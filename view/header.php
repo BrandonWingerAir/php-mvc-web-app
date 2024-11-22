@@ -8,4 +8,4 @@
 </head>
 <body>
     <div class="main">
-        <h1>MVC Web Application</h1>
+        <?php echo "<h1>MVC Web Application</h1>" ?>
