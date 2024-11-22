@@ -1,3 +1,3 @@
 <?php include('view/header.php') ?>
-<h1>MVC Web Application</h1>
+<h2>Task List</h2>
 <?php include('view/footer.php') ?>
